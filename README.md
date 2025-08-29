@@ -30,7 +30,7 @@
 ---
 
 ### INSTALL SCRIPT 
-<pre><code>apt install screen -y;wget -q https://raw.githubusercontent.com/PeyxDev/esce/main/setup.sh && chmod +x setup.sh && ./setup.sh
+<pre><code>apt install screen -y;wget -q https://raw.githubusercontent.com/raitowind/scvip/main/setup.sh && chmod +x setup.sh && ./setup.sh
 
 </code></pre>
 
