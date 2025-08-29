@@ -1,5 +1,5 @@
 #!/bin/sh
-REPOS="http://raw.githubusercontent.com/PeyxDev/esce/main/"
+REPOS="http://raw.githubusercontent.com/raitowind/scvip/main/"
 ns_domain_cloudflare() {
 	DOMAIN=$(cat /etc/xray/domain | cut -d "." -f2-4)
 	DOMAIN_PATH=$(cat /etc/xray/domain)
