@@ -12,7 +12,7 @@ CYAN='\033[0;36m'
 LIGHT='\033[0;37m'
 # ==========================================
 # Getting
-REPO="https://raw.githubusercontent.com/PeyxDev/esce/main/"
+REPO="https://raw.githubusercontent.com/raitowind/scvip/main/"
 echo -e "
 "
 date
